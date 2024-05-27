@@ -17,5 +17,6 @@ How to make our project work ?
 Now you can either choose the parameters of the effects with the GUI are let them change randomly with the interaction of the bouncing squares.
 If it's easier for you to choose the parameters close the window of processing. Otherwise if you want to challenge yourself and your creativity we can let it on !
 
+Project by : Djavan Borius, Dario Sorce, Salvatore Pantusa, Gianmarco Parente and Julien Boidevaix
 
 
