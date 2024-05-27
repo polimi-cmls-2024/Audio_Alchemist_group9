@@ -3,7 +3,7 @@
 Music Instrument Interface for guitarist : 
 
 With this application you can play the sound you want with your guitar by connecting it to your computer and downloading all the files. 
-It uses the Fast Fourier Fourier to find the fundamental frequency and a GUI interface to use the differents effects for a guitar.
+It uses the Fast Fourier Transform to find the fundamental frequency and a GUI interface to use the differents effects for a guitar.
 To use our app the steps are explained below. The sound of the "audio alchemist" is provided in the files, but feel free to change the parameters or the synthDef to find your own sound !
 
 
