@@ -19,4 +19,7 @@ If it's easier for you to choose the parameters close the window of processing. 
 
 Project by : Djavan Borius, Dario Sorce, Salvatore Pantusa, Gianmarco Parente and Julien Boidevaix
 
+P.S : The video is composed of 2 parts. The first part is related to show the effects developped. The second is to show the all music instrument interface.
+Some issues occured during the second part's recording. The Video recorder software has a high CPU usage so has the FFT program in JUCE. It resulted in the FFT couldn't send notes anymore. We recorded the sound after and superposed it to the video to get a better sounding result for the viewers.
+
 
